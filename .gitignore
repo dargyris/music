@@ -1,0 +1,4 @@
+.DS_Store
+.git
+__init__.py
+__pycache__
